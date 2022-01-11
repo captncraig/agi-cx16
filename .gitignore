@@ -1,0 +1,8 @@
+sqikit
+*.asm
+*.jar
+*.prg
+BANKS
+*.txt
+*mon-list
+*.bin
